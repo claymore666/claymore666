@@ -1,10 +1,3 @@
-## Hi there, I'm Chris 👋
-
-Programming since I was 5 · Father · Brewer · BMW nerd · all kinds of craftsmanship · BBQ 🔥
-📍 Germany, Mainz-Bingen
-
----
-
 ### 📊 GitHub Stats
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=claymore666&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
