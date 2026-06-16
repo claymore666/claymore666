@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Chris 👋
 
-<!--
-**claymore666/claymore666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming since I was 5 · Father · Brewer · BMW nerd · all kinds of craftsmanship · BBQ 🔥
+📍 Germany, Mainz-Bingen
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=claymore666&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claymore666&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub streak](https://streak-stats.demolab.com?user=claymore666&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
